@@ -1,6 +1,7 @@
-$bg-color: blue; 
+//variable overrides
 
-body {
-    background: $bg-color;
-    color: white;
-}
+$theme-colors:(
+    "primary": #007E00
+);
+//bootsrap sass files
+@import "node_modules/bootstrap/scss/bootstrap";
