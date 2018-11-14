@@ -12,3 +12,4 @@ const person = {
         }
     }
 }
+/*Look up the call or apply method on MDN DOCS for answers*/
