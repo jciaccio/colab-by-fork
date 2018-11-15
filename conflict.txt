@@ -1,6 +1,6 @@
 line one " this file was created on master branch "( fresh branch change after creation of stale branch merg ok, stale did conflict as expected due to no pull)
 line two " this is line two "(stale branch merge on same line still conflicts when a pull was done prior to merge!)
-line three " this is line three "
+line three " this is line three "(change thsi line on stale branch  then the next line in freshbranch no pull)
 line four " i am a breaker of things"( fresh  change on a new line )
 line five ' i will commit this to master then create two branches that touch this file"
 line six " first i will branch  change and remain open no pulls "
