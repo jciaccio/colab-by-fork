@@ -6,6 +6,8 @@ line five ' i will commit this to master then create two branches that touch thi
 line six " first i will branch  change and remain open no pulls "
 line seven " create second branch second branch will change then close before the first"
 line eight "then i will merge  the first branch that shoul be unaware of the second banch and conflict.
+Line nine " instaled git flow created develop branch and set default folder to develop
+line ten " line added in feature "
 
 
 
