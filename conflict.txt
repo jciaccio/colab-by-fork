@@ -1,4 +1,4 @@
-line one " this file was created on master branch " (_stale branch added code to line one. fresh branch has been merged now a million days later i fialy  try to pr this pos)
+line one " this file was created on master branch "( fresh branch change after creation of stale branch merg ok, stale did conflict as expected due to no pull)
 line two " this is line two "
 line three " this is line three "
 line four " i am a breaker of things"
