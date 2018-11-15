@@ -1,5 +1,5 @@
 line one " this file was created on master branch "( fresh branch change after creation of stale branch merg ok, stale did conflict as expected due to no pull)
-line two " this is line two "
+line two " this is line two "( fresh fred branchig from master edit line 2  fresh fred )
 line three " this is line three "
 line four " i am a breaker of things"
 line five ' i will commit this to master then create two branches that touch this file"
