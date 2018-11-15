@@ -1,5 +1,5 @@
 line one " this file was created on master branch "( fresh branch change after creation of stale branch merg ok, stale did conflict as expected due to no pull)
-line two " this is line two "(stale gale brach edit line two ill let this branch get stale , pull and merge after mergig a fresh branch should be no conflict due to the pull)
+line two " this is line two "(stale branch merge on same line still conflicts when a pull was done prior to merge!)
 line three " this is line three "
 line four " i am a breaker of things"
 line five ' i will commit this to master then create two branches that touch this file"
