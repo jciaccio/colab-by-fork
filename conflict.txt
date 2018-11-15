@@ -1,0 +1,11 @@
+line one " this file was created on master branch "
+line two " this is line two "
+line three " this is line three "
+line four " i am a breaker of things"
+line five ' i will commit this to master then create two branches that touch this file"
+line six " first i will branch  change and remain open no pulls "
+line seven " create second branch second branch will change then close before the first"
+line eight "then i will merge  the first branch that shoul be unaware of the second banch and conflict.
+
+
+
