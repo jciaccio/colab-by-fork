@@ -8,6 +8,8 @@ line seven " create second branch second branch will change then close before th
 line eight "then i will merge  the first branch that shoul be unaware of the second banch and conflict.
 Line nine " instaled git flow created develop branch and set default folder to develop
 line ten " line added in feature "
+line eleven "Cesar Gomez added this line to practice with gitflow methodology. Hopfully it all works out"
+" i named these lines thinking it woudl help resolve whats happening in conflct and it didnt lol this is a flow feature addtition"
 
 
 
