@@ -8,5 +8,5 @@
 - develop a workflow for outside contributers
 - bla bla bla
 
-
+- Link to gitflow https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
 
