@@ -1,4 +1,4 @@
-line one " this file was created on master branch "
+line one " this file was created on master branch "( fresh branch chage on line one after creation of stale branch)
 line two " this is line two "
 line three " this is line three "
 line four " i am a breaker of things"
