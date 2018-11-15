@@ -1,4 +1,4 @@
-line one " this file was created on master branch "
+line one " this file was created on master branch " (_stale branch added code to line one)
 line two " this is line two "
 line three " this is line three "
 line four " i am a breaker of things"
